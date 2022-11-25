@@ -1,4 +1,12 @@
-## Oi, eu sou o Lucas Esdras, Full-Stack Developer!
+<h1 align="center">Hi 👋, I'm Lucas Esdras</h1>
+<h3 align="center">Full-Stack Developer</h3>
+
+
+🔭 - Software Engineering Student.
+
+🌱 - Atualmente estudando JavaScipt e Reactjs 
+
+🤝 - Contate-me: lucasesdras8@gmail.com
 
 
 ## 🌐 Socials:
