@@ -1,4 +1,4 @@
-## Oi, eu sou a Lucas Esdras, Full-Stack Developer!
+## Oi, eu sou o Lucas Esdras, Full-Stack Developer!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/l.ucasreis_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-esdras-9bb711245/) 
