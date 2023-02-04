@@ -4,7 +4,7 @@
 
 🔭 - Software Engineering Student.
 
-🌱 - Atualmente estudando JavaScipt e Reactjs 
+🌱 - Atualmente estudando JavaScript e Reactjs 
 
 🤝 - Contate-me: lucasesdras8@gmail.com
 
